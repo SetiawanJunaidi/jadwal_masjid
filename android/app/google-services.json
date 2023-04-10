@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511815187525",
+    "project_id": "jadwal-masjid-3f314",
+    "storage_bucket": "jadwal-masjid-3f314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511815187525:android:970c3b087b5ccab7aff72c",
+        "android_client_info": {
+          "package_name": "com.example.jadwal_masjid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511815187525-mhafnmcqu9nj3ccbfu3c1v8co3rmnsp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3cKU6lGKMAt3Heo9YBUBW1bdkgFm3KyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511815187525-mhafnmcqu9nj3ccbfu3c1v8co3rmnsp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
